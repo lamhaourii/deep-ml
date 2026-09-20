@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:33:36.799Z",
+  "generated_at": "2026-09-20T20:00:17.514Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -182,6 +182,19 @@
       "last_pushed_at": "2026-09-19T18:33:35.953Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:105": {
+      "kind": "problem",
+      "id": "105",
+      "title": "Train Softmax Regression with Gradient Descent",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/105",
+      "path": "problems/0105-train-softmax-regression-with-gradient-descent",
+      "first_solved_at": "2026-09-20T20:00:16.739Z",
+      "last_pushed_at": "2026-09-20T20:00:16.739Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
