@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 16 problems · 0 labs · 0 math
+**17** solved · 17 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-09-19 | [solution](problems/0288-implement-grid-search) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-09-19 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-09-16 | [solution](problems/0050-implement-lasso-regression-using-ista) |
+| [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-09-22 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
 | [Implement Stratified K-Fold Cross-Validation](https://www.deep-ml.com/problems/840) | medium | 2026-09-19 | [solution](problems/0840-implement-stratified-k-fold-cross-validation) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-09-19 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-09-19 | [solution](problems/0353-reconstruction-error-from-pca) |
