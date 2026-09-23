@@ -79,7 +79,7 @@ def train(X_train, y_train, X_val, y_val):
     MORE features than training samples (many are noise or redundant).
     
     WARNING: An unregularized approach WILL overfit here.
-    - Unregularized OLS: Train R² ≈ 1.0, Val R² ≈ -5.0
+    - Unregularized OLS: Train RÂ² â 1.0, Val RÂ² â -5.0
     - You need regularization to pass!
     
     Args:
@@ -113,11 +113,11 @@ def train(X_train, y_train, X_val, y_val):
 
     param_grid={
         'lrs':[0.0001,0.001,0.01],
-        'alphas1':[0.1, 0.3, 0.5, 0.7, 0.9],
-        'alphas2':[0.1, 0.3, 0.5, 0.7, 0.9]
+        'alphas1':[0.01, 0.1, 0.3, 0.5, 0.7, 0.9],
+        'alphas2':[ 0.01, 0.1, 0.3, 0.5, 0.7, 0.9]
     }
     combos= list(product(*[param_grid[key] for key in param_grid.keys()]))
-    epochs= 1000
+    epochs= 20000
     best_w= np.zeros(X_train.shape[1])
     best_b= 0.0
     delta= 1e-4
