@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 21 problems · 1 labs · 0 math
+**23** solved · 21 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-23 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
+| [Build a Tree for a Random Forest](https://www.deep-ml.com/labs/26) | hard | 2026-09-24 | [solution](labs/0026-build-a-tree-for-a-random-forest) |
 
 ---
 
