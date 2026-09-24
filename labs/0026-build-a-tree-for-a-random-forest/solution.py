@@ -131,14 +131,14 @@ class DecisionTree:
         # TODO: traverse the tree for each row in X
         n_samples= X.shape[0]
         out= np.zeros((n_samples,))
-        for x in X:
+        for i,x in enumerate(X):
             node= self.tree
             while isinstance(node, dict):
                 if x[node['feature']]<node['threshold']:
                     node= node['left']
                 else:
                     node= node['right']
-            out= np.append(out, node)
+            out[i]=node
         return out
 
         
