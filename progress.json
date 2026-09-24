@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:38:59.986Z",
+  "generated_at": "2026-09-24T19:10:58.994Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -299,6 +299,19 @@
       "last_pushed_at": "2026-09-24T14:38:59.291Z",
       "language": "python",
       "lines": 145
+    },
+    "problem:307": {
+      "kind": "problem",
+      "id": "307",
+      "title": "Implement Bagging Classifier from Scratch",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/307",
+      "path": "problems/0307-implement-bagging-classifier-from-scratch",
+      "first_solved_at": "2026-09-24T19:10:54.048Z",
+      "last_pushed_at": "2026-09-24T19:10:54.048Z",
+      "language": "python",
+      "lines": 61
     }
   }
 }
