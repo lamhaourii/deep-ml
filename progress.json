@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T05:01:06.619Z",
+  "generated_at": "2026-11-11T04:39:13.974Z",
   "items": {
     "problem:43": {
       "kind": "problem",
@@ -336,6 +336,19 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-11-10T05:01:05.969Z",
       "last_pushed_at": "2026-11-10T05:01:05.969Z"
+    },
+    "problem:945": {
+      "kind": "problem",
+      "id": "945",
+      "title": "Token Embedding Lookup Table",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/945",
+      "path": "problems/0945-token-embedding-lookup-table",
+      "first_solved_at": "2026-11-11T04:39:13.348Z",
+      "last_pushed_at": "2026-11-11T04:39:13.348Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
